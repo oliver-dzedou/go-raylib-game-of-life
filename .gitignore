@@ -1,0 +1,11 @@
+.DS_STORE
+./build
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+.env
+*.env
+go.work
+go.work.sum
